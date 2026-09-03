@@ -2,3 +2,6 @@ pandas
 jupyter
 spacy
 emoji
+matplotlib
+wordcloud
+scipy
